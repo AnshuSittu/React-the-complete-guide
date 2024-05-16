@@ -1,2 +1,2 @@
-# React_Tut
+# React the complete guide
 The Complete Guide 
